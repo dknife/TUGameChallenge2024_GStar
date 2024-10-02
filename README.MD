@@ -25,6 +25,9 @@ Game Challenge 2024
 
  [Message from G-Star](https://github.com/dknife/TUGameChallenge2024_GStar/blob/main/EMails/passRequest.txt)
 
+ [신청서 1 유료출입증]() 
+ [신청서 2 유료초대권]()
+
  제출 서류 관리: 제출 기한 10월 11일 (금)
 
    
