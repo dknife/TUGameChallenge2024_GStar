@@ -16,16 +16,16 @@ Game Challenge 2024
 
 #### G-Star 준비 (이승욱)
 
-   ##### 서류 제출 (강영민)
+##### 서류 제출 (강영민)
 
-     유료 초청권 / 출입증 발급 신청 - 신청기한 10. 18(금)
-  
-     - 유료 출입증: 납입기한 10월 25일(금) / 수령일자 11월 13일(금) - 매당 8000원
-     - 유료 초대권: 납입기한 10월 25일(금) / 이메일 수령 - 매당 8000원
+ 유료 초청권 / 출입증 발급 신청 - 신청기한 10. 18(금)
 
-     [Message from G-Star](https://github.com/dknife/TUGameChallenge2024_GStar/blob/main/EMails/passRequest.txt)
-  
-     제출 서류 관리: 제출 기한 10월 11일 (금)
+ - 유료 출입증: 납입기한 10월 25일(금) / 수령일자 11월 13일(금) - 매당 8000원
+ - 유료 초대권: 납입기한 10월 25일(금) / 이메일 수령 - 매당 8000원
+
+ [Message from G-Star](https://github.com/dknife/TUGameChallenge2024_GStar/blob/main/EMails/passRequest.txt)
+
+ 제출 서류 관리: 제출 기한 10월 11일 (금)
 
    
 
